@@ -1,1 +1,0 @@
-此工具初始来源于http://isic.sourceforge.net/，该处代码很久没更新，存在一些编译问题。故我放在github上来维护。
